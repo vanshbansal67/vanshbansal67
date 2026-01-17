@@ -22,7 +22,7 @@
         Frameworks:React<br>
         UI/UX: Bootstrap
       </p>
-      <p>📄 <strong>Resume:</strong> <a href="https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ">Click to view</a></p>
+      <p>📄 <strong>Resume:</strong> <a href="https://1drv.ms/b/c/28ae4eca6b23df40/IQBzKJEx3eTVRZkb0K0ZNrHdAcb0GTFfZiOrJr3TNdvYpsU?e=HVRAQj">Click to view</a></p>
     </td>
     <td>
       <img src="./git image.gif" alt="coding" width="500"/>
